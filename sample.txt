@@ -1,1 +1,2 @@
 This is sample file to test the github repo
+I have eddited in the new branch
